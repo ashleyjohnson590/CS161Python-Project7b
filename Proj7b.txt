@@ -1,0 +1,13 @@
+#Author: Ashley Johnson
+#Date: 11/3/2020
+#Description: Program takes a list of numbers as a parameter and returns the list in reverse order.
+def reverse_list(vals):
+    """returns the list of numbers in reverse order."""
+    a = 0
+    b = len(vals)-1
+    while(a<b):
+        temp = vals[a]
+        vals[a] = vals[b]
+        vals[b] = temp
+        a+=1
+        b-=1

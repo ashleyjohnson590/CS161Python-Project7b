@@ -1,0 +1,124 @@
+Assignment 7 Rubric (1)
+Criteria	Ratings	Pts
+Code Style Deduction: Used single letter variable names. Known math symbols are okay. (-2 Points)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+Comments
+you should not use single-letter variable names like "a" or "b"
+-1 / 0 pts
+Code Style Deduction: Did not format code correctly. (Colons, indentation, at least 1 blank line after function/methods/classes, name conventions such as snake_case. Overall.) (-2 Points)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+Comments
+There should be a blank line between your header and the start of your program
+-1 / 0 pts
+Code Style Deduction: Each wrong file/function/class name. (-1 Point each)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deduction: For each file without required comment headers. (Including inaccurate descriptions.) (-1 Point)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Un-covered Material: Used materials not yet covered in the class. (-3 Points)
+0 pts
+Full Marks
+Used only approved materials
+0 pts
+Point Deduction
+Used un-covered materials
+0 / 0 pts
+Code Style Deduction: For each function without a required docstring. (Including inaccurate descriptions.) (-1 Point)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Project 7a: Program successfully executes.
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Project 7a: Successfully mutates original list.
+6 to >5 pts
+Full Marks
+5 to >0 pts
+Partial Marks
+0 pts
+No Marks
+6 / 6 pts
+Project 7a: Correctly squared each value in the list
+10 to >9 pts
+Full Marks
+9 to >0 pts
+Partial Marks
+0 pts
+No Marks
+10 / 10 pts
+Project 7a DEDUCTION: Problems with function structure causing it not to work properly. (Parameters, etc.) (-6 Points)
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Project 7b: Program successfully executes.
+4 pts
+Full Marks
+0 pts
+No Marks
+4 / 4 pts
+Project 7b: Successfully mutates original list.
+6 to >5 pts
+Full Marks
+5 to >0 pts
+Partial Marks
+0 pts
+No Marks
+6 / 6 pts
+Project 7b: Correctly reverses the list.
+10 to >9 pts
+Full Marks
+9 to >0 pts
+Partial Marks
+0 pts
+No Marks
+10 / 10 pts
+Project 7b DEDUCTION: Used slicing to mutate list. (Specifically forbidden for this project only.) (-6 Points)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Project 7b: Problems with function structure causing it not to work properly. (Parameters, etc.) (-6 Points)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Late Project Deduction (within 48 hours)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Deduction: Typos/incorrect formatting (Including extraneous/incorrect print statements). (-6 Points)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Total Points: 38
